@@ -73,7 +73,8 @@ The implementation produced the following outcomes:
 - **K-Means** detected approximately 28 unique individuals.
 - **DBSCAN** detected around 26 unique individuals, providing an estimate of clustering effectiveness.
 - Generated plots visualizing the count of individuals per unique ID for both methods.
-
+  ![DBSCAN_plot](https://github.com/user-attachments/assets/517d32b7-c4c3-431e-97bf-f66f7de110a5)![KMeans_plot](https://github.com/user-attachments/assets/3a8369d7-b34c-4fda-afa7-f69ccc6ffef1)
+  
 ## Challenges and Solutions
 
 - **Challenge**: Low image quality and absence of facial features hindered classification.
